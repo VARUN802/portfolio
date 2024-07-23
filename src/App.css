@@ -22,7 +22,7 @@ body {
   background-color: var(--background-color);
   display: flex;
   justify-content: center;
-  margin: 0 auto 60px;
+  margin: 15px auto 60px;
 }
 
 #root {
