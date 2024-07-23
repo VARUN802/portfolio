@@ -29,11 +29,11 @@ function Hero() {
         <h1>Varun <br></br>Kumar</h1>
         <h2>Full Stack Developer</h2>
         <span>
-            <a href='https://twitter.com/' target='_blank'><img  alt='Twitter Icon' src={twitterIcon}
+            <a href='https://x.com/varun802' target='_blank'><img  alt='Twitter Icon' src={twitterIcon}
             ></img> </a>
-            <a href='https://github.com/' target='_blank'><img  alt='github Icon' src={githubIcon}
+            <a href='https://github.com/VARUN802' target='_blank'><img  alt='github Icon' src={githubIcon}
             ></img> </a>
-            <a href='https://linkedin.com/' target='_blank'><img  alt='linkedin Icon' src={linkedinIcon}
+            <a href='https://www.linkedin.com/in/varun-kumar-02946223b/' target='_blank'><img  alt='linkedin Icon' src={linkedinIcon}
             ></img> </a>
         </span>
         <p className={styles.description}>Full-stack developer with a passion for building modern, scalable web applications using React and Node.js, dedicated to transforming commercial business needs into dynamic digital solutions.</p>
